@@ -2,7 +2,7 @@
 
   body {
   background: #fff;
-  color: #798a9a;
+  color: #000000;
   line-height: 1.7;
   font-size: 16px;
   font-weight: 300; }
@@ -32,7 +32,7 @@
   color: #fff; }
 
 h1, h2, h3, h4, h5 {
-  color: #2c3e50;
+  color: #000000;
   font-weight: 200; }
 
 a {
@@ -343,7 +343,7 @@ a {
             font-size: 0.8rem;
             text-transform: uppercase;
             letter-spacing: .25rem;
-            background:  #798A9D;
+            background:  #000000;
               border: 3px solid #FFFFFF;
               display: inline-block;
               font-family: "poppins-bold", sans-serif;
@@ -575,7 +575,7 @@ a {
     display: block;
     font-size: 20px; }
   .resume-item h3, .resume-item .school {
-    color: #2c3e50; }
+    color: #000000; }
 
 .blog-entry {
   -webkit-transition: .3s all ease;
@@ -597,7 +597,7 @@ a {
       margin-bottom: 10px;
       line-height: 1.5; }
       .blog-entry .blog-entry-text h3 a {
-        color: #2c3e50; }
+        color: #000000; }
         .blog-entry .blog-entry-text h3 a:hover {
           color: #6CC8FF; }
   .blog-entry .meta {
@@ -625,7 +625,7 @@ a {
   list-style: none;
   margin-bottom: 20px; }
   .site-contact-details li > span {
-    color: #2c3e50;
+    color: #000000;
     letter-spacing: .1em;
     font-size: 12px;
     font-weight: 500;
