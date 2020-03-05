@@ -233,9 +233,12 @@ a {
   .site-hero .lead {
     line-height: 2; }
   .site-hero .site-subheading {
-    max-width: 250px;
+    max-width: 190px;
     font-weight: 400;
-    margin: 0 auto;
+    margin-top: -15px;
+    margin-right: auto;
+    margin-bottom: 0px;
+    margin-left: auto;
     font-family: 'Crimson Text', serif;
     text-shadow: 10px 10px 10px #000000;
     font-size: 1rem;
