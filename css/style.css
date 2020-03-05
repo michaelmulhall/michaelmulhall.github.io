@@ -1,11 +1,29 @@
 579CC2
 
+html{
+  scroll-behavior: smooth;
+}
   body {
   background: #fff;
   color: #000000;
   line-height: 1.7;
   font-size: 16px;
   font-weight: 300; }
+
+  .gotopbtn{
+    position: fixed;
+    width: 50px;
+    height: 50px;
+    background: #A6CCE7;
+    bottom: 40px;
+    right: 50px;
+
+    text-decoration: none;
+    text-align: center;
+    line-height: 50px;
+    color: white;
+    font-size: 22px;
+  }
 
 .p1-gradient-bg, .thumb .overlay-bg {
   background: -moz-linear-gradient(0deg, #8490ff 0%, #62bdfc 100%);
@@ -41,7 +59,7 @@ a {
   transition: .3s all;
   color: #579CC2; }
   a:hover, a:focus, a:active {
-    color: #4ebe2a;
+    color: #ffffff;
     text-decoration: none; }
 
     .fade-in {
@@ -203,7 +221,8 @@ a {
     max-width: 250px;
     font-weight: 400;
     margin: 0 auto;
-    font-family: "lora-regular", serif;
+    font-family: 'Crimson Text', serif;
+    text-shadow: 10px 10px 10px #000000;
     font-size: 1rem;
     text-transform: uppercase;
     color: #FFFFFF;
