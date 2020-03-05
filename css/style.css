@@ -1,12 +1,17 @@
 579CC2
 
+html{
+  scroll-behavior: smooth;
+}
 
   body {
   background: #fff;
   color: #000000;
   line-height: 1.7;
   font-size: 16px;
-  font-weight: 300; }
+  font-weight: 300;
+  scroll-behavior: smooth;
+}
 
   .gotopbtn{
     position: fixed;
@@ -47,9 +52,21 @@
   background: #000;
   color: #fff; }
 
-h1, h2, h3, h4, h5 {
+h1, h3, h4, h5 {
   color: #000000;
-  font-weight: 200; }
+  font-weight: 200;
+  font-family: 'Raleway', sans-serif;
+}
+
+h2 {
+  color: #000000;
+  font-weight: 200;
+  font-family: 'Raleway', sans-serif;
+}
+
+p {
+  font-family: 'Raleway', sans-serif;
+}
 
 a {
   -webkit-transition: .3s all;
