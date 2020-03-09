@@ -373,6 +373,9 @@ a {
           cursor: pointer;
           text-align: center;
           white-space: nowrap;}
+          .btn.btn-thirdly:hover {
+            background-color: #1167b1;
+          }
           .btn.btn-four {
             color: #FFFFFF !important;
             border-color: #579CC2;
@@ -649,7 +652,21 @@ a {
 .form-control {
   border: none !important;
   -webkit-box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.1) !important;
-  box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.1) !important; }
+  box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.1) !important;
+  font: inherit;
+  color: currentColor;
+  width: 100%;
+  border: 0;
+  height: 1.1875em;
+  margin: 0;
+  display: block;
+  padding: 6px 0 7px;
+  min-width: 0;
+  background: none;
+  box-sizing: content-box;
+  animation-name: MuiInputBase-keyframes-auto-fill-cancel;
+  -webkit-tap-highlight-color: transparent;
+}
 
 .site-form .form-control {
   border: 1px solid #b3bdc6; }
