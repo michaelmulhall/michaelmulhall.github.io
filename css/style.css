@@ -219,23 +219,18 @@ a {
         text-shadow: 0 0 25px rgba(0, 0, 0, 0.5);
       }
 
-    @media (max-width: 768px) {
+    @media (max-width: 991.98px) {
       .site-hero h1 strong {
         font-size: 40px;
       }
     }
 
-    @media (max-width: 768px) {
-      .site-hero .site-subheading {
-        font-size: 5px;
+    @media (max-width: 991.98px) {
+      .site-hero .site-subheading{
+        font-size: 0.3rem;
       }
     }
 
-      @media (max-width: 768px) {
-        .site-hero h1 {
-          font-size: 30px;
-        }
-    }
 
     @media (min-width: 768px) {
       .site-hero h1 {
