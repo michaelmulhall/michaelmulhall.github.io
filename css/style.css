@@ -766,9 +766,44 @@ color: #fff;
     .links .social-item > span {
       position: absolute;
       color: #fff;
-      top: 500%;
+      top: 420%;
       left: 50%;
 
       -webkit-transform: translate(-50%, -50%);
       -ms-transform: translate(-50%, -50%);
       transform: translate(-50%, -50%); }
+      .links .social-item2 {
+        display: inline-block;
+        width: 60px;
+        height: 60px;
+        color: #fff;
+        position: relative;
+        font-size: 30px;
+        margin: 0 10px; }
+        .links .social-item2 > span {
+          position: absolute;
+          color: #fff;
+          top: 420%;
+          left: 50%;
+
+          -webkit-transform: translate(-50%, -50%);
+          -ms-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%); }
+
+          .links .social-item3 {
+            display: inline-block;
+            width: 60px;
+            height: 60px;
+            color: #fff;
+            position: relative;
+            font-size: 27px;
+            margin: 0 10px; }
+            .links .social-item3 > span {
+              position: absolute;
+              color: #fff;
+              top: 419%;
+              left: 50%;
+
+              -webkit-transform: translate(-50%, -50%);
+              -ms-transform: translate(-50%, -50%);
+              transform: translate(-50%, -50%); }
