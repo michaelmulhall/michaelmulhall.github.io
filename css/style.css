@@ -51,7 +51,7 @@
 
 h1, h3, h4, h5 {
   color: #000000;
-  font-weight: 200;
+
   font-family: 'Raleway', sans-serif;
 }
 
@@ -206,14 +206,10 @@ a {
     display: block; }
     .site-hero h1 strong {
         font-size: 84px;
-        letter-spacing: 0rem;
         letter-spacing: -.1rem;
-        font-style: normal;
         font-weight: 500;
-        text-shadow: 1px 1px 20px #000000;
-        font-family: 'Poppins', sans-serif;
-        font-weight: 400px;
-        font-style: normal;}
+        text-shadow: 0 0 20px #000000;
+        font-family: 'Poppins', sans-serif;}
     @media (min-width: 768px) {
       .site-hero h1 {
         font-size: 25px;
@@ -338,6 +334,8 @@ a {
 
 .btn {
   border-radius: 5px;
+  font-size: 14px;
+  font-family: "poppins-bold", sans-serif;
   text-transform: uppercase;
   letter-spacing: .1em; }
   .btn:active, .btn:focus {
@@ -351,8 +349,8 @@ a {
     font-size: 0.8rem;
     text-transform: uppercase;
     letter-spacing: .25rem;
-    background: rgba(255, 255, 255, 0.05) !important;
-      border: 1px solid #FFFFFF;
+    background: rgba(255, 255, 255, 0.03) !important;
+      border: 1px solid #fff;
       display: inline-block;
       font-family: "poppins-bold", sans-serif;
       text-decoration: none;
