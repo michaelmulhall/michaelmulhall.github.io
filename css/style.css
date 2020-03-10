@@ -10,11 +10,6 @@
   font-weight: 300;
 }
 
-.greeting {
-  letter-spacing: 3.5px;
-  transform: translate(0%, 60%);
-}
-
   .gotopbtn{
     position: fixed;
     width: 50px;
