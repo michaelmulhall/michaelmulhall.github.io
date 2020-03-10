@@ -1,6 +1,8 @@
 579CC2
 
-
+html{
+  scroll-behavior: smooth;
+}
 
   body {
   background: #fff;
@@ -8,8 +10,6 @@
   line-height: 1.7;
   font-size: 16px;
   font-weight: 300;
-  scroll-behavior: smooth;
-  font-family: "poppins-regular", sans-serif;
 }
 
   .gotopbtn{
@@ -19,13 +19,15 @@
     background: #A6CCE7;
     bottom: 40px;
     right: 50px;
-
+    scroll-behavior: smoothscroll;
     text-decoration: none;
     text-align: center;
     line-height: 50px;
     color: white;
     font-size: 22px;
   }
+
+  
 
 .p1-gradient-bg, .thumb .overlay-bg {
   background: -moz-linear-gradient(0deg, #8490ff 0%, #62bdfc 100%);
