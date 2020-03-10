@@ -27,7 +27,7 @@ html{
     font-size: 22px;
   }
 
-  
+
 
 .p1-gradient-bg, .thumb .overlay-bg {
   background: -moz-linear-gradient(0deg, #8490ff 0%, #62bdfc 100%);
@@ -211,11 +211,11 @@ a {
     .site-hero h1 strong {
       color: #ffffff;
         font-family: "poppins", sans-serif;
-        font-size: 104px;
+        font-size: 96px;
         letter-spacing: -.1rem;
         margin-top: 0;
-        margin-left: -5rem;
-        margin-right: -5rem;
+        margin-left: auto;
+        margin-right: auto;
         font-weight: 500;
         line-height: 1.071;
         text-shadow: 0 0 25px rgba(0, 0, 0, 0.5);
