@@ -361,3 +361,71 @@ var thehours = new Date().getHours();
 	}
 
 	$('.greeting').append(themessage);
+
+
+
+	$(document).ready(function(){
+  $(window).scroll(function () {
+    triggerSlideIns( $(this), [ $('div.itm'), $('div.ant-itm') ]);
+  });
+});
+
+$.getDocHeight = function(){
+  return Math.max(
+      $(document).height(),
+      $(window).height(),
+      document.documentElement.clientHeight
+  );
+};
+
+$.getScrollPercentage = function(){
+  return 100 * Math.min(
+    ($(window).height() + $(window).scrollTop()) / $.getDocHeight(),
+    $(window).scrollTop()
+    );
+};
+
+var triggerSlideIns = function(t, items) {
+
+  for (var i = 0; i < items.length; i++) {
+    if((( $.getDocHeight() - $(window).height()) - ( $.getDocHeight() - items[i].offset().top )) <= t.scrollTop()) {
+      if(!items[i].hasClass('transitionSlideIn'))
+      {
+        items[i].addClass('transitionSlideIn');
+      }
+    } else { items[i].removeClass('transitionSlideIn'); }
+  }
+};
+
+
+
+$(document).ready(function () {
+    timer = setInterval(function () {
+        rotateWords();
+    }, 2500);
+  playPauseRotating();
+});
+var timer;
+function rotateWords() {
+    var ele, eleIndex, totalWordsToRotate;
+    totalWordsToRotate = $('.word-rotate-wrapper h2').length;
+    ele = $('.word-rotate-wrapper h2.show');
+    eleIndex = ele.index() + 1;
+    ele.removeClass('show');
+    if (eleIndex == totalWordsToRotate) {
+        eleIndex = 1;
+        $('.word-rotate-wrapper h2:nth-child(' + eleIndex + ')').addClass('show');
+    } else {
+        $('.word-rotate-wrapper h2:nth-child(' + (eleIndex + 1) + ')').addClass('show');
+    }
+}
+function playPauseRotating() {
+    $(document).on('mouseover', '.word-rotate-wrapper', function () {
+        clearInterval(timer);
+    });
+    $(document).on('mouseout', '.word-rotate-wrapper', function () {
+        timer = setInterval(function () {
+            rotateWords();
+        }, 2500);
+    });
+}
