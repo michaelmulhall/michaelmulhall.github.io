@@ -343,7 +343,6 @@
 
 })();
 
-
 var thehours = new Date().getHours();
 	var themessage;
 	var morning = ('GOOD MORNING,');
@@ -364,7 +363,36 @@ var thehours = new Date().getHours();
 
 
 
-	$(document).ready(function(){
+
+	/* FadeIn Scroll */
+$(document).ready(function() {
+
+    /* Every time the window is scrolled ... */
+    $(window).scroll( function(){
+
+        /* Check the location of each desired element */
+        $('.fade').each( function(i){
+
+            var bottom_of_object = $(this).position().top + $(this).outerHeight();
+            var bottom_of_window = $(window).scrollTop() + $(window).height();
+
+            /* If the object is completely visible in the window, fade it it */
+            if( bottom_of_window > bottom_of_object ){
+
+                $(this).animate({'opacity':'1'},900);
+
+            }
+
+        });
+
+    });
+
+});
+
+
+
+
+$(document).ready(function(){
   $(window).scroll(function () {
     triggerSlideIns( $(this), [ $('div.itm'), $('div.ant-itm') ]);
   });
@@ -398,7 +426,6 @@ var triggerSlideIns = function(t, items) {
 };
 
 
-
 $(document).ready(function () {
     timer = setInterval(function () {
         rotateWords();
@@ -430,8 +457,7 @@ function playPauseRotating() {
     });
 }
 
-
-function($){
+(function($){
     $.fn.extend({
         rotaterator: function(options) {
 
