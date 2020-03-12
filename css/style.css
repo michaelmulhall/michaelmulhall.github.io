@@ -270,7 +270,7 @@ a {
   .site-hero .lead {
     line-height: 2; }
   .site-hero .site-subheading {
-    color: #ffffff;
+    color: #fff;
     max-width: 1240px;
     font-weight: 400;
     margin-top: -15px;
@@ -385,7 +385,7 @@ a {
     -webkit-box-shadow: none !important;
     box-shadow: none !important; }
   .btn.btn-primary {
-    margin-top: 2rem;
+    margin-top: .01rem;
     color: #FFFFFF !important;
     border-color: rgba(255, 255, 255, 0.3);
     box-sizing: inherit;
