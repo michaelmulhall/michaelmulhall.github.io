@@ -239,13 +239,13 @@ a {
 
     @media (max-width: 991.98px) {
       .site-hero h1 strong {
-        font-size: 25px;
+        font-size: 35px;
       }
     }
 
     @media (max-width: 991.98px) {
       .site-hero .site-subheading{
-        font-size: 0.3rem;
+        font-size: 20px;
       }
     }
 
