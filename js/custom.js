@@ -390,6 +390,11 @@ $(document).ready(function() {
 });
 
 
+$(document).ready(function () {
+    $('div.hidden1').fadeIn(1500).removeClass('hidden1');
+});
+
+
 
 
 $(document).ready(function(){
