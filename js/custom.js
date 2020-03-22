@@ -462,11 +462,7 @@ function playPauseRotating() {
     });
 }
 
-$(window).load(function() {
-    setTimeout(function() {
-        $('.fly-in').removeClass('hidd');
-    }, 700);
-});
+
 
 
 (function($){
