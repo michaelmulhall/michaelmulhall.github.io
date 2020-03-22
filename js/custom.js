@@ -462,6 +462,9 @@ function playPauseRotating() {
     });
 }
 
+
+
+
 (function($){
     $.fn.extend({
         rotaterator: function(options) {
