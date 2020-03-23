@@ -250,7 +250,7 @@ a {
     }
 
     	@media screen and (max-width: 480px) {
-        .site-hero .site-subheading {
+        .site-subheading {
           font-size: 20px;
         }
       }

@@ -507,10 +507,3 @@ function playPauseRotating() {
  $(document).ready(function() {
         $('#rotate').rotaterator({fadeSpeed:500, pauseSpeed:5000});
  });
-
-
- $(function() {
-	setTimeout(function() {
-		$('.fly-in-text').removeClass('hidden');
-	},500);
-})();
