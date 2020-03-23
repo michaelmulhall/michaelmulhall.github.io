@@ -1000,3 +1000,50 @@ color: #fff;
 		opacity: 1;
 	}
 }
+
+.spacingss {
+  width: 100;
+  height: 10;
+  margin-top: -15px;
+  margin-bottom: 12px;
+  text-align: center;
+}
+
+@media screen and (max-width: 480px) {
+
+  .spacingss {
+    width: 100%;
+    height: auto;
+    margin-top: -15px;
+    margin-bottom: 15px;
+    text-align: center;
+    font-size: 25px;
+  }
+
+}
+
+@media screen and (max-width: 736px) {
+
+  .spacingss {
+    width: 100%;
+    height: auto;
+    margin-top: -15px;
+    margin-bottom: 15px;
+    text-align: center;
+    font-size: 25px;
+  }
+
+}
+
+@media screen and (max-width: 980px) {
+
+  .spacingss {
+    width: 100;
+    height: 10;
+    margin-top: -15px;
+    margin-bottom: 0px;
+    text-align: center;
+    font-size: 16px;
+  }
+
+}
