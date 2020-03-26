@@ -1,5 +1,9 @@
 579CC2
 
+html, body {
+  overflow-x: hidden;
+  scroll-behavior: smoothscroll;
+}
 
 
   body {
@@ -8,6 +12,11 @@
   line-height: 1.7;
   font-size: 16px;
   font-weight: 300;
+  position: relative;
+  width: 100%;
+  -webkit-box-sizing: border-box;
+       -moz-box-sizing: border-box;
+            box-sizing: border-box;
 }
 
 .greeting {
@@ -953,7 +962,7 @@ color: #fff;
 
 @media screen and (max-width: 768px) {
     .fly-in-text li {
-    	display: inline-flex;
+    	display: inline-block;
 		margin-right:20px;
 		font-weight: 300;
 		font-size: 3em;
@@ -964,7 +973,7 @@ color: #fff;
   
   @media screen and (max-width: 480px) {
     .fly-in-text li {
-    	display: inline-flex;
+    	display: inline-block;
 		margin-right:20px;
 		font-weight: 300;
 		font-size: 3em;
