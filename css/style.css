@@ -808,6 +808,16 @@ box-shadow: 0 10px 20px 2px rgba(0, 0, 0, 0.1); }
   text-align: center;
 }
 
+.centerImg {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 2em;
+  margin-bottom: 5em;
+  text-align: center;
+  box-shadow: 0 4px 25px 0 rgba(0, 0, 0, 1);
+}
+
 
 .links {
   padding: 0em 0;
@@ -1052,5 +1062,5 @@ color: #fff;
 }
 
 .resBg {
-  background-color: rgba(30, 30, 30);
+  background-color: rgba(70, 70, 70);
 }
