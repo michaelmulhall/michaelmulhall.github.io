@@ -1053,6 +1053,31 @@ color: #fff;
     font-size: 25px;
   }
 
+  .ty {
+    font-size: 13px;
+  }
+
+  .site-hero {
+    background-color: #ccc;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: local;
+    position: relative;
+    overflow: hidden; }
+    .site-hero, .site-hero .row {
+      height: 100vh;
+      min-height: 800px; }
+    .site-hero:before {
+      content: "";
+      position: absolute;
+      width: 100%;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      background: rgba(0, 0, 0, 0.5); }
+
 }
 
 @media screen and (max-width: 736px) {
@@ -1084,3 +1109,5 @@ color: #fff;
 .resBg {
   background-color: rgba(70, 70, 70);
 }
+
+
