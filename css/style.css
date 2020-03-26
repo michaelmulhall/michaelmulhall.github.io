@@ -32,14 +32,14 @@
     position: fixed;
     width: 50px;
     height: 50px;
-    background: #A6CCE7;
+    background: linear-gradient(to top, transparent, 0%, rgba(208, 224, 245, 0.48));
     bottom: 40px;
     right: 50px;
     scroll-behavior: smoothscroll;
     text-decoration: none;
     text-align: center;
     line-height: 50px;
-    color: white;
+    color: rgba(170, 170, 170);
     font-size: 22px;
     z-index: 999;
   }
