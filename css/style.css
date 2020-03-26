@@ -953,7 +953,18 @@ color: #fff;
 
 @media screen and (max-width: 768px) {
     .fly-in-text li {
-    	display: block;
+    	display: inline-flex;
+		margin-right:20px;
+		font-weight: 300;
+		font-size: 3em;
+		text-align: center;
+        margin: 0 auto;
+}
+  }
+  
+  @media screen and (max-width: 480px) {
+    .fly-in-text li {
+    	display: inline-flex;
 		margin-right:20px;
 		font-weight: 300;
 		font-size: 3em;
@@ -961,7 +972,7 @@ color: #fff;
         margin: 0 auto;
 }
 	}
-}
+
 
 .fly-in-text li:last-child {
 	margin-right: 0;
