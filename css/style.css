@@ -53,6 +53,8 @@ html, body {
     z-index: 999;
   }
 
+  
+
 
 
 .p1-gradient-bg, .thumb .overlay-bg {
@@ -343,7 +345,7 @@ a {
 
 .lead {
   font-weight: 200;
-  line-height: 1.5; }
+  line-height: 1.7; }
 
 .site-service-item .icon {
   display: block;
@@ -970,7 +972,7 @@ color: #fff;
         margin: 0 auto;
 }
   }
-  
+
   @media screen and (max-width: 480px) {
     .fly-in-text li {
     	display: inline-block;
@@ -1113,5 +1115,3 @@ color: #fff;
 .resBg {
   background-color: rgba(200, 200, 200);
 }
-
-
