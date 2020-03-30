@@ -2025,12 +2025,12 @@ header .logo a {
  *
  * -------------------------------------------------------------------
  */
-#cta {
+#projects {
 	padding-top: 10.2rem;
 	padding-bottom: 9rem;
 	text-align: center;
 }
-#cta p.lead {
+#projects p.lead {
 	color: #6e6e6e;
 }
 .cta-content {
