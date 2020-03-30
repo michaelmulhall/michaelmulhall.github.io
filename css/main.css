@@ -1292,7 +1292,7 @@ header .logo a {
  *
  * -------------------------------------------------------------------
  */
-#intro {
+#home {
 	background: url(../images/wallpapers/wallpaper19.jpg) no-repeat center bottom;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
@@ -1435,7 +1435,7 @@ header .logo a {
 	}
 }
 @media only screen and (max-width:768px) {
-	#intro {
+	#home {
 		min-height: 660px;
 	}
 	.intro-content h1 {
@@ -1455,7 +1455,7 @@ header .logo a {
 	}
 }
 @media only screen and (max-width:600px) {
-	#intro {
+	#home {
 		min-height: 600px;
 	}
 	.intro-content h1 {
