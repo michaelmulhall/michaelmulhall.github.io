@@ -509,3 +509,5 @@ function playPauseRotating() {
 		$('.fly-in-text').removeClass('hidden');
 	},500);
 })();
+
+$(".box").hide().fadeIn(2000);

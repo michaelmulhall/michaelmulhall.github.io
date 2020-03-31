@@ -745,9 +745,20 @@ box-shadow: 0 10px 20px 2px rgba(0, 0, 0, 0.1); }
         .centerdatt {
           margin: 45px;
           margin-top: -4px;
+          margin-bottom: 30px;
           text-align: center;
           box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
         }
+
+        @media only screen and (max-width:600px) {
+          .centerdatt {
+            margin: 0px;
+            margin-top: -4px;
+            margin-bottom: 30px;
+         }
+        }
+
+
 
         .butt {
   background-color: #B5E5EB;
@@ -790,4 +801,16 @@ font-family: "poppins-regular", sans-serif;
 
 .cdaat {
   text-align: center;
+}
+
+.box {
+	background: #ff6347
+	width: 300px
+	height: 200px
+	color: white
+	border-radius: 50px
+}
+.box p {
+	text-align: center
+	font: 30px/200px sans-serif
 }
