@@ -622,7 +622,9 @@ a {
   -o-transition: .5s ease;
   transition: .5s ease;
   -webkit-backface-visibility: hidden;
-  backface-visibility: hidden; }
+  backface-visibility: hidden;
+  margin-left: -10px;
+}
 
 .middle {
   -webkit-transition: .5s ease;
