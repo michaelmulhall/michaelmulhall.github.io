@@ -1358,7 +1358,7 @@ header .logo a {
 .intro-content h5 {
 	color: #A6CCE7;
 	font-family: "poppins-bold", sans-serif;
-	font-size: 2.3rem;
+	font-size: 23px;
 	line-height: 1.565;
 	margin-bottom: 0;
 	text-transform: uppercase;
@@ -1484,7 +1484,7 @@ header .logo a {
 		letter-spacing: -1px;
 	}
 	.intro-content h5 {
-		font-size: 1.5rem;
+		font-size: 12px;
 		margin-bottom: .3rem;
 		letter-spacing: .2rem;
 	}
