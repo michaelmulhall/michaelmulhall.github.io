@@ -84,7 +84,7 @@ html, body {
 h1, h3, h4, h5 {
   color: #000000;
 
-  font-family: 'Raleway', sans-serif;
+  font-family: "poppins-regular", sans-serif;
 }
 
 h2 {
@@ -93,7 +93,7 @@ h2 {
 }
 
 p {
-  font-family: 'Raleway', sans-serif;
+  font-family: "poppins-regular", sans-serif;
 }
 
 a {
@@ -511,11 +511,15 @@ a {
       padding: 20px;
       -webkit-transition: .3s all ease;
       -o-transition: .3s all ease;
-      transition: .3s all ease; }
+      transition: .3s all ease;
+      font-family: "poppins-regular", sans-serif;
+    }
       .filters ul li:hover {
         color: #579CC2; }
       .filters ul li.active {
-        color: #579CC2; }
+        color: #579CC2;
+
+      }
 
 .single-portfolio {
   margin-bottom: 50px;
@@ -525,11 +529,15 @@ a {
   .single-portfolio .p-inner {
     text-align: center; }
     .single-portfolio .p-inner h4 {
-      font-size: 20px; }
+      font-size: 20px;
+      font-family: "lora-regular", serif;
+    }
     .single-portfolio .p-inner .cat {
       font-size: 12px;
       text-transform: uppercase;
-      color: #cccccc; }
+      color: #cccccc;
+      font-family: "poppins-regular", sans-serif;
+    }
 
 /*--------- Start Portfolio Area -------------*/
 .portfolio-area .primary-btn {
@@ -913,7 +921,7 @@ a:after {
 
 .portTitles {
   text-align: center;
-  font-family: "poppins-regular", sans-serif;
+  font-family: "poppins-bold", sans-serif;
   margin-top: 3em;
   margin-bottom: -3em;
   font-size: 35px;
@@ -921,7 +929,7 @@ a:after {
 
 .portTitlesa {
   text-align: center;
-  font-family: "poppins-regular", sans-serif;
+  font-family: "poppins-bold", sans-serif;
   margin-top: 2em;
   margin-bottom: -1em;
   font-size: 35px;
