@@ -814,3 +814,95 @@ font-family: "poppins-regular", sans-serif;
 	text-align: center
 	font: 30px/200px sans-serif
 }
+
+
+:root {
+	--font: 1rem/1.2 "helvetica", sans-serif;
+	--bg-hover: linear-gradient(
+		135deg,
+		#B5E5EB 0%,
+		#2654e9 20%,
+		#62d6fa 37%,
+		#fff 50%,
+		#B5E5EB 66%,
+		#7559ff 72%,
+		#B5E5EB 100%
+	);
+	--btn-color: #B5E5EB;
+}
+
+/* formating */
+main {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+  margin-top: 35px;
+}
+
+/* button */
+.btnn {
+	display: table;
+	text-align: center;
+	color: #ffffff;
+	text-decoration: none;
+	position: relative;
+	font: var(--font);
+	font-weight: bold;
+	padding: 22px 40px;
+	background-color: var(--btn-color);
+	overflow: hidden;
+	margin: 24px;
+  font-family: "poppins-regular", sans-serif;
+  font-size: 18px;
+   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.--animated {
+	transition: all 1s;
+}
+
+.--animated span {
+	position: relative;
+	z-index: 9;
+}
+
+.--animated:after {
+	height: 100%;
+	width: 2000px;
+	transition: all 1s;
+	background: var(--bg-hover);
+}
+
+.--animated:before {
+	height: 26px;
+	width: 100%;
+	top: -50px;
+	z-index: 10;
+	opacity: 0;
+	background-color: rgba(255, 255, 255, 0.15);
+}
+
+.--animated:hover:before {
+	top: 0;
+	opacity: 1;
+}
+.--animated:hover:after {
+	left: -1750px;
+}
+.--animated:before,
+a:after {
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index: 7;
+	display: block;
+	content: "";
+}
+.--animated:active:before {
+	height: 100%;
+	background-color: rgba(255, 255, 255, 0.8);
+}
+.--animated:active {
+	transform: scale(0.95);
+	transition: all 200ms;
+}
