@@ -90,7 +90,6 @@ h1, h3, h4, h5 {
 h2 {
   color: #000000;
   font-weight: 200;
-  font-family: 'Raleway', sans-serif;
 }
 
 p {
@@ -855,7 +854,7 @@ main {
   font-family: "poppins-regular", sans-serif;
   font-size: 18px;
    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-   border-radius: 5px;
+   border-radius: 3px;
 }
 
 .--animated {
@@ -906,4 +905,20 @@ a:after {
 .--animated:active {
 	transform: scale(0.95);
 	transition: all 200ms;
+}
+
+.portTitles {
+  text-align: center;
+  font-family: "poppins-regular", sans-serif;
+  margin-top: 3em;
+  margin-bottom: -3em;
+  font-size: 35px;
+}
+
+.portTitlesa {
+  text-align: center;
+  font-family: "poppins-regular", sans-serif;
+  margin-top: 2em;
+  margin-bottom: -1em;
+  font-size: 35px;
 }
