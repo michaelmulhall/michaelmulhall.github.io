@@ -2599,7 +2599,7 @@ footer .copyright span:last-child::after {
 	width: 6rem;
 	line-height: 6.6rem;
 	text-align: center;
-	background: #A6CCE7;
+	background: rgba(166, 204, 231, 0.5);
 	color: #FFFFFF;
 	text-align: center;
 	text-transform: uppercase;
@@ -2614,7 +2614,7 @@ footer .copyright span:last-child::after {
 	line-height: inherit;
 }
 #go-top a:hover {
-	background: #000000;
+	background: rgba(210, 210, 210, 0.5);
 }
 
 .avata {
