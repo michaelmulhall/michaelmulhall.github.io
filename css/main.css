@@ -2730,7 +2730,20 @@ transition: background-position 300ms, color 300ms ease, border-color 300ms ease
 }
 
 
+.blackk {
+	color: #000;
+	-o-transition:.5s;
+  -ms-transition:.5s;
+  -moz-transition:.5s;
+  -webkit-transition:.5s;
+  /* ...and now for the proper property */
+  transition:.5s;
+}
 
+.blackk:hover {
+	color: #A6CCE7;
+	opacity: 1;
+}
 
 
 /*# sourceMappingURL=main.css.map */
