@@ -1346,7 +1346,7 @@ header .logo a {
 .intro-content h2 {
 	color: #FFFFFF;
 	font-family: "poppins-medium", sans-serif;
-	font-size: 84px;
+	font-size: 74px;
 	line-height: 1.071;
 	max-width: 900px;
 	margin-top: 0;
@@ -1479,7 +1479,7 @@ header .logo a {
 		min-height: 600px;
 	}
 	.intro-content h2 {
-		font-size: 29px;
+		font-size: 27px;
 		margin-bottom: .6rem;
 	}
 	.intro-content h5 {
