@@ -711,7 +711,9 @@ box-shadow: 0 10px 20px 2px rgba(0, 0, 0, 0.1); }
     top: -2px; }
   .blog-entry .blog-entry-text {
     border-top: none;
-    padding: 30px; }
+    padding: 30px;
+    background-color: rgba(245, 245, 245);
+  }
     .blog-entry .blog-entry-text h3 {
       font-size: 20px;
       margin-bottom: 10px;
