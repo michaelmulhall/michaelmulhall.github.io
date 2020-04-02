@@ -2123,6 +2123,7 @@ header .logo a {
 	padding-bottom: 12rem;
 	color: white;
 	position: relative;
+	background-attachment: fixed;
 }
 #testimonials .overlay {
 	position: absolute;

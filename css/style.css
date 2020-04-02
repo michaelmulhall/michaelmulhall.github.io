@@ -938,3 +938,21 @@ a:after {
   margin-bottom: -1em;
   font-size: 35px;
 }
+
+.subtt {
+  text-align: center;
+  color: #A6CCE7;
+  font-size: 1.6rem;
+  line-height: 1.875;
+  margin-bottom: -8.7rem;
+  margin-top: 12rem;
+  letter-spacing: .4rem;
+  font-family: "poppins-bold";
+  font-style: normal;
+  font-weight: bold;
+
+}
+
+#section-project {
+  background-color: #EBEBEB;
+}
