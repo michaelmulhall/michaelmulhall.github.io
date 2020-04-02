@@ -2860,9 +2860,9 @@ a:after {
   font-size: 1.6rem;
   line-height: 1.875;
   margin-bottom: -3.7rem;
-  margin-top: 5rem;
+  margin-top: 2rem;
   letter-spacing: .4rem;
-  font-family: "poppins-bold";
+  font-family: "poppins-semibold", serif;
   font-style: normal;
   font-weight: bold;
 
