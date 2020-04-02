@@ -756,7 +756,8 @@ box-shadow: 0 10px 20px 2px rgba(0, 0, 0, 0.1); }
           margin-top: 75px;
           margin-bottom: 30px;
           text-align: center;
-          box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+          box-shadow: 0 22px 31px 0 rgba(0, 0, 0, 1), 0 6px 20px 0 rgba(0, 0, 0, 1);
+          z-index: 99999;
         }
 
         @media only screen and (max-width:600px) {
@@ -955,4 +956,14 @@ a:after {
 
 #section-project {
   background-color: #EBEBEB;
+}
+
+#bgPort .overlay {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	background: #151515;
+	opacity: .9;
 }
