@@ -1356,9 +1356,10 @@ header .logo a {
 	text-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
 }
 .intro-content h5 {
-	background: -webkit-linear-gradient(#ffffff, #095f9c);
+	/* background: -webkit-linear-gradient(#ffffff, #095f9c);
   -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
+  -webkit-text-fill-color: transparent; */
+	color: #A6CCE7;
 	font-family: "poppins-bold", sans-serif;
 	font-size: 23px;
 	line-height: 1.565;
