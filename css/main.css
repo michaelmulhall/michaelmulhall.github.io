@@ -1356,7 +1356,7 @@ header .logo a {
 	text-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
 }
 .intro-content h5 {
-	background: -webkit-linear-gradient(#fff, #095f9c);
+	background: -webkit-linear-gradient(#ffffff, #095f9c);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 	font-family: "poppins-bold", sans-serif;
