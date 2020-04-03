@@ -74,7 +74,7 @@ body {
 	font-family: "lora-regular", serif;
 	font-size: 1.7rem;
 	line-height: 3rem;
-	color: #6e6e6e;
+	color: rgba(80, 80, 80);
 }
 
 /**
@@ -157,7 +157,7 @@ p.lead {
 	font-family: "lora-regular", serif;
 	font-size: 2rem;
 	line-height: 1.8;
-	color: #888888;
+	color: rgba(80, 80, 80);
 }
 @media only screen and (max-width:768px) {
 	p.lead {
@@ -1293,7 +1293,7 @@ header .logo a {
  * -------------------------------------------------------------------
  */
 #intro {
-	background: url(../images/wallpapers/wallpaper19.jpg) no-repeat center bottom;
+	background: url(../images/wallpapers/wallpaper22.jpg) no-repeat center bottom;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	background-size: cover;
@@ -1308,7 +1308,7 @@ header .logo a {
 
 @media screen and (max-width: 480px) {
 	#intro {
-		background: url(../images/wallpapers/wallpaper19.jpg) no-repeat center bottom;
+		background: url(../images/wallpapers/wallpaper22.jpg) no-repeat center bottom;
 		-webkit-background-size: cover;
 		-moz-background-size: cover;
 		background-size: cover;
@@ -1569,7 +1569,7 @@ header .logo a {
 .about-content .info-list li span {
 	display: block;
 	font-family: "poppins-regular", sans-serif;
-	color: #888888;
+	color: rgba(80, 80, 80);
 	font-size: 1.5rem;
 	line-height: 1;
 }
@@ -2884,6 +2884,8 @@ a:after {
   font-weight: bold;
 
 }
+
+
 
 
 /*# sourceMappingURL=main.css.map */
