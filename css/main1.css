@@ -19,7 +19,7 @@ header .row {
 }
 header .top-bar {
 	display: block;
-	background: #000000;
+	background: rgba(0, 0, 0, 0.8);
 	min-width: 80px;
 	min-height: 40px;
 	position: fixed;
