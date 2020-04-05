@@ -1,0 +1,29 @@
+.fixer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #151515;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color: rgba(180, 180, 180);
+  margin-top: 3rem;
+}
+.site-service-item .icon {
+  display: block;
+  margin-bottom: 50px;
+  background: #edf0f2;
+  background: #579CC2;
+  width: 100px;
+  height: 100px;
+  position: relative;
+  border-radius: 50%;
+  margin: 0 auto 30px auto; }
+  .site-service-item .icon span {
+    font-size: 40px;
+    color: #080b0e;
+    position: absolute;
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    left: 50%;
+    top: 50%; }

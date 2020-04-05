@@ -4,3 +4,14 @@ video {
 	max-width: 100%;
 	height: auto;
 }
+
+
+.block-tab-full .bgrid {
+	width: 100%;
+	clear: both;
+}
+
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
