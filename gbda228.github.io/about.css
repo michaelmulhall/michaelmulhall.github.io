@@ -1,0 +1,123 @@
+
+h3 {
+  color: #027a2f;
+  font-size: 50px;
+}
+
+/*head*/
+.head {
+  background-image: url("images/about1.png");
+  background-repeat: no-repeat;
+}
+
+.head h1 {
+  text-align: center;
+  font-size: 90px;
+  padding: 2.5em 2.2em 2.2em 2.2em;
+}
+
+/*visons*/
+.vision {
+  margin-left: 9em;
+  margin-right: 9em;
+  margin-bottom: 3em;
+  box-shadow: 0px 1px 8px #494949;
+}
+
+.Vision ul {
+  list-style-type: disc;
+}
+
+.vision h3 {
+  padding-top: .57em;
+  margin-left: 6em;
+}
+
+.vision img {
+  float: left;
+}
+
+.vision li {
+  line-height: 4em;
+  font-weight: 200;
+  letter-spacing: .5px;
+  padding-left: 2.3em;
+}
+
+  /*goals*/
+.goals {
+  margin-left: 9em;
+  margin-right: 9em;
+  margin-bottom: 5em;
+  box-shadow: 0px 1px 8px #494949;
+}
+
+.goals img {
+  float: right;
+}
+
+.goals h3 {
+  padding-top: .2em;
+  margin-left: 1em;
+}
+
+.goals li {
+  line-height: 3.35em;
+  font-weight: 200;
+  padding-left: 2.3em;
+letter-spacing: .5px;
+padding-bottom: .88em;
+}
+
+/*meet the team*/
+.team {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+ h2 {
+  color: #494949;
+  padding: .5em;
+  margin-left: 4.3em;
+  font-size: 50px;
+}
+
+.team figcaption {
+  text-align: center;
+}
+
+.team figure {
+  text-align: center;
+}
+
+.team i {
+  float: right;
+  padding-left: 1em;
+}
+
+/*Travis*/
+.travis {
+  background-color: #494949;
+  color: #ffffff;
+  padding: 2em 3em 1em 3em;
+  margin-bottom: 3em;
+  box-shadow: 0px 1px 5px #494949;
+}
+
+.travis img {
+  padding-bottom: 1em;
+}
+
+/*Luis*/
+.luis {
+  background-color: #ffffff;
+  color: #000000;
+  padding: 2em 3em 1em 3em;
+  margin-bottom: 3em;
+  box-shadow: 0px 1px 5px #494949;
+}
+
+.luis img {
+  padding-bottom: 1em;
+}

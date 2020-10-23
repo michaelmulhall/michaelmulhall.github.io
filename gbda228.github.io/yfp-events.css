@@ -1,0 +1,80 @@
+/* Events */
+h1 {
+  font-family: 'Lato', sans-serif;
+  text-align: center;
+  color: #02A841;
+  padding: 40px;
+  font-size: 90px;
+}
+
+#events {
+  padding: 100px;
+}
+
+#events hr {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.collapsible {
+  background-color: #FAFAFA;
+  color: #494949;
+  padding: 18px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 15px;
+  outline:none !important;
+}
+
+.active, .collapsible:hover {
+  background-color: #FFF;
+  outline:none !important;
+}
+
+/* Collapsed content */
+.content {
+  margin-top: -60px;
+  padding: 18px;
+  display: none;
+  overflow: hidden;
+  background-color: #FFF;
+  align-content: center;
+}
+
+/* RSVP button */
+.rsvp {
+  background-color: #494949;
+  color: #FFF;
+  border-radius: 20px;
+  float: right;
+  padding: 5px 40px 5px 40px;
+  margin-top: 20px;
+}
+
+.rsvp:hover {
+  background-color: #a0a0a0;
+}
+
+.rsvp a {
+  color: #FFF;
+  text-decoration: none;
+}
+
+.rsvp a:hover {
+  color: #FFF;
+  text-decoration: none;
+}
+
+/* +/- icon */
+.collapsible:after {
+  content: '\02795'; /* Unicode character for "plus" sign (+) */
+  font-size: 13px;
+  float: right;
+  margin-left: 5px;
+}
+
+.active:after {
+  content: "\2796"; /* Unicode character for "minus" sign (-) */
+}

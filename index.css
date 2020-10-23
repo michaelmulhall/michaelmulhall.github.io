@@ -1,0 +1,106 @@
+/* ABOUT ME */
+
+#about {
+  margin-top: 200px;
+  width: 70%;
+  margin-bottom: 50px;
+}
+
+/* MORE-ABOUT */
+
+#portrait {
+  opacity: .85;
+  padding: 0px 20px 20px 0px;
+  border-radius: 5px;
+}
+
+#portrait:hover {
+  transform: scale(1.05);
+  transition: all 200ms ease-in-out;
+  opacity: .95;
+}
+
+/* PROJECTS CARDS */
+.proj-card {
+  position: relative;
+}
+
+#fun {
+  margin-top: 60px;
+}
+
+.fun-card {
+  cursor: default;
+  margin: 30px;
+  position: relative;
+  background-color: #fff;
+  overflow: hidden;
+  transition: all 200ms ease-out;
+  padding: 0px;
+}
+
+.info {
+  margin: 30px;
+}
+
+.social a {
+  color: #000;
+}
+
+.social a:hover {
+  color: #CFD2E1;
+}
+
+.proj-card:hover,
+.fun-card:hover {
+  transform: scale(1.05);
+  transition: all 200ms ease-out;
+  box-shadow: 0 20px 20px 5px rgba(0, 0, 0, 0.06);
+}
+
+.overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 68%;
+  width: 100%;
+  opacity: 0;
+  transition: .4s ease-in-out;
+  background-color: rgba(0, 0, 0, 0.16);
+}
+
+.fun-card:hover .overlay {
+  opacity: 1;
+  border-radius: 8px 8px 0px 0px;
+}
+
+/*  */
+@media only screen and (max-width: 540px) {
+  .cards-list {
+    flex-direction: column;
+    padding: 35px;
+  }
+}
+
+@media only screen and (max-width: 540px) {
+  #portrait {
+    width: 50%;   
+  }
+}
+
+  @media (min-width: 1360px) {
+    .container {
+      padding: 0px 150px;
+    }
+  }
+
+  
+
+  @media (min-width: 1360px) {
+    #more-about {
+      margin: 50px 0px;
+      padding: 80px;
+    }
+  }

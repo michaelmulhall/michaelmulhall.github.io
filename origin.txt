@@ -1,0 +1,516 @@
+Uri: https://emilyliu.co/
+File Name: C:\Users\micha\Desktop\Portfolio - Website\emilyliu.co\index.htm
+Content Type: text/html
+
+Uri: https://emilyliu.co/assets/Me.png
+File Name: C:\Users\micha\Desktop\Portfolio - Website\emilyliu.co\assets\Me.png
+Content Type: image/png
+
+Uri: https://emilyliu.co/pages/showmi.html
+File Name: C:\Users\micha\Desktop\Portfolio - Website\emilyliu.co\pages\showmi.html
+Content Type: text/html
+
+Uri: https://emilyliu.co/pages/tyltgo.html
+File Name: C:\Users\micha\Desktop\Portfolio - Website\emilyliu.co\pages\tyltgo.html
+Content Type: text/html
+
+Uri: https://emilyliu.co/pages/yfp.html
+File Name: C:\Users\micha\Desktop\Portfolio - Website\emilyliu.co\pages\yfp.html
+Content Type: text/html
+
+Uri: https://emilyliu.co/pages/dailyUI.html
+File Name: C:\Users\micha\Desktop\Portfolio - Website\emilyliu.co\pages\dailyUI.html
+Content Type: text/html
+
+Uri: https://emilyliu.co/pages/uwmcc.html
+File Name: C:\Users\micha\Desktop\Portfolio - Website\emilyliu.co\pages\uwmcc.html
+Content Type: text/html
+
+Uri: https://emilyliu.co/assets/Emily_Liu_Resume.pdf
+File Name: C:\Users\micha\Desktop\Portfolio - Website\emilyliu.co\assets\Emily_Liu_Resume.pdf
+Content Type: application/pdf
+
+Uri: https://emilyliu.co/pages/SM/SM-feature.png
+File Name: C:\Users\micha\Desktop\Portfolio - Website\emilyliu.co\pages\SM\SM-feature.png
+Content Type: image/png
+
+Uri: https://emilyliu.co/pages/Fun/TG-feature.png
+File Name: C:\Users\micha\Desktop\Portfolio - Website\emilyliu.co\pages\Fun\TG-feature.png
+Content Type: image/png
+
+Uri: https://emilyliu.co/pages/Fun/wish-logo.png
+File Name: C:\Users\micha\Desktop\Portfolio - Website\emilyliu.co\pages\Fun\wish-logo.png
+Content Type: image/png
+
+Uri: https://emilyliu.co/pages/YFP/YFP-feature.png
+File Name: C:\Users\micha\Desktop\Portfolio - Website\emilyliu.co\pages\YFP\YFP-feature.png
+Content Type: image/png
+
+Uri: https://emilyliu.co/pages/DailyUI/DailyUI-feature.png
+File Name: C:\Users\micha\Desktop\Portfolio - Website\emilyliu.co\pages\DailyUI\DailyUI-feature.png
+Content Type: image/png
+
+Uri: https://emilyliu.co/pages/UWMCC/UWMCC-feature.png
+File Name: C:\Users\micha\Desktop\Portfolio - Website\emilyliu.co\pages\UWMCC\UWMCC-feature.png
+Content Type: image/png
+
+Uri: https://emilyliu.co/assets/about-me.JPG
+File Name: C:\Users\micha\Desktop\Portfolio - Website\emilyliu.co\assets\about-me.JPG
+Content Type: image/jpeg
+
+Uri: https://emilyliu.co/main.css
+File Name: C:\Users\micha\Desktop\Portfolio - Website\emilyliu.co\main.css
+Content Type: text/css
+
+Uri: https://emilyliu.co/index.css
+File Name: C:\Users\micha\Desktop\Portfolio - Website\emilyliu.co\index.css
+Content Type: text/css
+
+Uri: https://emilyliu.co/pages/projs.css
+File Name: C:\Users\micha\Desktop\Portfolio - Website\emilyliu.co\pages\projs.css
+Content Type: text/css
+
+Uri: https://emilyliu.co/pages/SM/SM-Audience.png
+File Name: C:\Users\micha\Desktop\Portfolio - Website\emilyliu.co\pages\SM\SM-Audience.png
+Content Type: image/png
+
+Uri: https://emilyliu.co/pages/SM/SM-addartistfinal.webm
+File Name: C:\Users\micha\Desktop\Portfolio - Website\emilyliu.co\pages\SM\SM-addartistfinal.webm
+Content Type: video/webm
+
+Uri: https://emilyliu.co/pages/SM/SM-memoriesfinal.webm
+File Name: C:\Users\micha\Desktop\Portfolio - Website\emilyliu.co\pages\SM\SM-memoriesfinal.webm
+Content Type: video/webm
+
+Uri: https://emilyliu.co/pages/SM/SM-recommendfinal.webm
+File Name: C:\Users\micha\Desktop\Portfolio - Website\emilyliu.co\pages\SM\SM-recommendfinal.webm
+Content Type: video/webm
+
+Uri: https://emilyliu.co/pages/SM/SM-IA.png
+File Name: C:\Users\micha\Desktop\Portfolio - Website\emilyliu.co\pages\SM\SM-IA.png
+Content Type: image/png
+
+Uri: https://emilyliu.co/pages/SM/SM - Survey-01.png
+File Name: C:\Users\micha\Desktop\Portfolio - Website\emilyliu.co\pages\SM\SM - Survey-01.png
+Content Type: image/png
+
+Uri: https://emilyliu.co/pages/SM/SM - Survey-06.png
+File Name: C:\Users\micha\Desktop\Portfolio - Website\emilyliu.co\pages\SM\SM - Survey-06.png
+Content Type: image/png
+
+Uri: https://emilyliu.co/pages/SM/SM - Survey-02.png
+File Name: C:\Users\micha\Desktop\Portfolio - Website\emilyliu.co\pages\SM\SM - Survey-02.png
+Content Type: image/png
+
+Uri: https://emilyliu.co/pages/SM/SM - Survey-07.png
+File Name: C:\Users\micha\Desktop\Portfolio - Website\emilyliu.co\pages\SM\SM - Survey-07.png
+Content Type: image/png
+
+Uri: https://emilyliu.co/pages/SM/SM-A:B testing.png
+File Name: C:\Users\micha\Desktop\Portfolio - Website\emilyliu.co\pages\SM\SM-AB testing.png
+Content Type: image/png
+
+Uri: https://emilyliu.co/pages/SM/SM-memories WF.png
+File Name: C:\Users\micha\Desktop\Portfolio - Website\emilyliu.co\pages\SM\SM-memories WF.png
+Content Type: image/png
+
+Uri: https://emilyliu.co/pages/SM/SM-memories (1).webm
+File Name: C:\Users\micha\Desktop\Portfolio - Website\emilyliu.co\pages\SM\SM-memories (1).webm
+Content Type: video/webm
+
+Uri: https://emilyliu.co/pages/SM/SM-events WF.png
+File Name: C:\Users\micha\Desktop\Portfolio - Website\emilyliu.co\pages\SM\SM-events WF.png
+Content Type: image/png
+
+Uri: https://emilyliu.co/pages/SM/SM-eventsnav.webm
+File Name: C:\Users\micha\Desktop\Portfolio - Website\emilyliu.co\pages\SM\SM-eventsnav.webm
+Content Type: video/webm
+
+Uri: https://emilyliu.co/pages/SM/SM-card 1.png
+File Name: C:\Users\micha\Desktop\Portfolio - Website\emilyliu.co\pages\SM\SM-card 1.png
+Content Type: image/png
+
+Uri: https://emilyliu.co/pages/SM/SM-card 2.png
+File Name: C:\Users\micha\Desktop\Portfolio - Website\emilyliu.co\pages\SM\SM-card 2.png
+Content Type: image/png
+
+Uri: https://emilyliu.co/pages/SM/SM-card 3.png
+File Name: C:\Users\micha\Desktop\Portfolio - Website\emilyliu.co\pages\SM\SM-card 3.png
+Content Type: image/png
+
+Uri: https://emilyliu.co/pages/SM/SM-card 4.png
+File Name: C:\Users\micha\Desktop\Portfolio - Website\emilyliu.co\pages\SM\SM-card 4.png
+Content Type: image/png
+
+Uri: https://emilyliu.co/pages/SM/SM-stats.webm
+File Name: C:\Users\micha\Desktop\Portfolio - Website\emilyliu.co\pages\SM\SM-stats.webm
+Content Type: video/webm
+
+Uri: https://emilyliu.co/pages/SM/SM-final.webm
+File Name: C:\Users\micha\Desktop\Portfolio - Website\emilyliu.co\pages\SM\SM-final.webm
+Content Type: video/webm
+
+Uri: https://emilyliu.co/pages/Fun/TG - lofi.png
+File Name: C:\Users\micha\Desktop\Portfolio - Website\emilyliu.co\pages\Fun\TG - lofi.png
+Content Type: image/png
+
+Uri: https://emilyliu.co/pages/Fun/TG - Login.png
+File Name: C:\Users\micha\Desktop\Portfolio - Website\emilyliu.co\pages\Fun\TG - Login.png
+Content Type: image/png
+
+Uri: https://emilyliu.co/pages/Fun/TG - Profile.png
+File Name: C:\Users\micha\Desktop\Portfolio - Website\emilyliu.co\pages\Fun\TG - Profile.png
+Content Type: image/png
+
+Uri: https://emilyliu.co/pages/Fun/TG - Delivery A.png
+File Name: C:\Users\micha\Desktop\Portfolio - Website\emilyliu.co\pages\Fun\TG - Delivery A.png
+Content Type: image/png
+
+Uri: https://emilyliu.co/pages/Fun/TG - Delivery B.png
+File Name: C:\Users\micha\Desktop\Portfolio - Website\emilyliu.co\pages\Fun\TG - Delivery B.png
+Content Type: image/png
+
+Uri: https://emilyliu.co/pages/Fun/TG - Near me.png
+File Name: C:\Users\micha\Desktop\Portfolio - Website\emilyliu.co\pages\Fun\TG - Near me.png
+Content Type: image/png
+
+Uri: https://emilyliu.co/pages/Fun/TG - Options.png
+File Name: C:\Users\micha\Desktop\Portfolio - Website\emilyliu.co\pages\Fun\TG - Options.png
+Content Type: image/png
+
+Uri: https://emilyliu.co/pages/Fun/TG - Menu.png
+File Name: C:\Users\micha\Desktop\Portfolio - Website\emilyliu.co\pages\Fun\TG - Menu.png
+Content Type: image/png
+
+Uri: http://emilyliu.co/gbda228.github.io/
+File Name: C:\Users\micha\Desktop\Portfolio - Website\emilyliu.co\gbda228.github.io\index.htm
+Content Type: text/html
+
+Uri: https://emilyliu.co/pages/YFP/YFP-persona1.png
+File Name: C:\Users\micha\Desktop\Portfolio - Website\emilyliu.co\pages\YFP\YFP-persona1.png
+Content Type: image/png
+
+Uri: https://emilyliu.co/pages/YFP/YFP-persona2.png
+File Name: C:\Users\micha\Desktop\Portfolio - Website\emilyliu.co\pages\YFP\YFP-persona2.png
+Content Type: image/png
+
+Uri: https://emilyliu.co/pages/YFP/YFP-persona3.png
+File Name: C:\Users\micha\Desktop\Portfolio - Website\emilyliu.co\pages\YFP\YFP-persona3.png
+Content Type: image/png
+
+Uri: https://emilyliu.co/pages/YFP/yfp-content-critique.gif
+File Name: C:\Users\micha\Desktop\Portfolio - Website\emilyliu.co\pages\YFP\yfp-content-critique.gif
+Content Type: image/gif
+
+Uri: https://emilyliu.co/pages/YFP/yfp-design-critique.gif
+File Name: C:\Users\micha\Desktop\Portfolio - Website\emilyliu.co\pages\YFP\yfp-design-critique.gif
+Content Type: image/gif
+
+Uri: https://emilyliu.co/pages/YFP/yfp-nav-critique.gif
+File Name: C:\Users\micha\Desktop\Portfolio - Website\emilyliu.co\pages\YFP\yfp-nav-critique.gif
+Content Type: image/gif
+
+Uri: https://emilyliu.co/pages/YFP/YFP - goals
+File Name: C:\Users\micha\Desktop\Portfolio - Website\emilyliu.co\pages\YFP\YFP - goals.bin
+Content Type: application/octet-stream
+
+Uri: https://emilyliu.co/pages/YFP/sitemap.png
+File Name: C:\Users\micha\Desktop\Portfolio - Website\emilyliu.co\pages\YFP\sitemap.png
+Content Type: image/png
+
+Uri: https://emilyliu.co/pages/YFP/YFP-Homepage.png
+File Name: C:\Users\micha\Desktop\Portfolio - Website\emilyliu.co\pages\YFP\YFP-Homepage.png
+Content Type: image/png
+
+Uri: https://emilyliu.co/pages/YFP/YFP-Content.png
+File Name: C:\Users\micha\Desktop\Portfolio - Website\emilyliu.co\pages\YFP\YFP-Content.png
+Content Type: image/png
+
+Uri: https://emilyliu.co/pages/YFP/WF - A.png
+File Name: C:\Users\micha\Desktop\Portfolio - Website\emilyliu.co\pages\YFP\WF - A.png
+Content Type: image/png
+
+Uri: https://emilyliu.co/pages/YFP/WF - B.png
+File Name: C:\Users\micha\Desktop\Portfolio - Website\emilyliu.co\pages\YFP\WF - B.png
+Content Type: image/png
+
+Uri: https://emilyliu.co/pages/YFP/YFP - wf final.png
+File Name: C:\Users\micha\Desktop\Portfolio - Website\emilyliu.co\pages\YFP\YFP - wf final.png
+Content Type: image/png
+
+Uri: https://emilyliu.co/pages/DailyUI/DailyUI003.png
+File Name: C:\Users\micha\Desktop\Portfolio - Website\emilyliu.co\pages\DailyUI\DailyUI003.png
+Content Type: image/png
+
+Uri: https://emilyliu.co/pages/DailyUI/DailyUI003-visuals.png
+File Name: C:\Users\micha\Desktop\Portfolio - Website\emilyliu.co\pages\DailyUI\DailyUI003-visuals.png
+Content Type: image/png
+
+Uri: https://emilyliu.co/pages/DailyUI/DailyUI-008.png
+File Name: C:\Users\micha\Desktop\Portfolio - Website\emilyliu.co\pages\DailyUI\DailyUI-008.png
+Content Type: image/png
+
+Uri: https://emilyliu.co/pages/DailyUI/DailyUI-009.png
+File Name: C:\Users\micha\Desktop\Portfolio - Website\emilyliu.co\pages\DailyUI\DailyUI-009.png
+Content Type: image/png
+
+Uri: https://emilyliu.co/pages/DailyUI/DailyUI009-visuals.png
+File Name: C:\Users\micha\Desktop\Portfolio - Website\emilyliu.co\pages\DailyUI\DailyUI009-visuals.png
+Content Type: image/png
+
+Uri: https://emilyliu.co/pages/DailyUI/DailyUI-014.png
+File Name: C:\Users\micha\Desktop\Portfolio - Website\emilyliu.co\pages\DailyUI\DailyUI-014.png
+Content Type: image/png
+
+Uri: https://emilyliu.co/pages/DailyUI/DailyUI-040.png
+File Name: C:\Users\micha\Desktop\Portfolio - Website\emilyliu.co\pages\DailyUI\DailyUI-040.png
+Content Type: image/png
+
+Uri: https://emilyliu.co/pages/DailyUI/DailyUI048.png
+File Name: C:\Users\micha\Desktop\Portfolio - Website\emilyliu.co\pages\DailyUI\DailyUI048.png
+Content Type: image/png
+
+Uri: https://emilyliu.co/pages/DailyUI/DailyUI048-visuals.png
+File Name: C:\Users\micha\Desktop\Portfolio - Website\emilyliu.co\pages\DailyUI\DailyUI048-visuals.png
+Content Type: image/png
+
+Uri: https://emilyliu.co/pages/DailyUI/DailyUI - 67.png
+File Name: C:\Users\micha\Desktop\Portfolio - Website\emilyliu.co\pages\DailyUI\DailyUI - 67.png
+Content Type: image/png
+
+Uri: https://emilyliu.co/pages/DailyUI/DailyUI067-visuals.png
+File Name: C:\Users\micha\Desktop\Portfolio - Website\emilyliu.co\pages\DailyUI\DailyUI067-visuals.png
+Content Type: image/png
+
+Uri: https://emilyliu.co/pages/DailyUI/DailyUI-068.png
+File Name: C:\Users\micha\Desktop\Portfolio - Website\emilyliu.co\pages\DailyUI\DailyUI-068.png
+Content Type: image/png
+
+Uri: https://emilyliu.co/pages/DailyUI/DailyUI068-visuals.png
+File Name: C:\Users\micha\Desktop\Portfolio - Website\emilyliu.co\pages\DailyUI\DailyUI068-visuals.png
+Content Type: image/png
+
+Uri: https://emilyliu.co/isotope.css
+File Name: C:\Users\micha\Desktop\Portfolio - Website\emilyliu.co\isotope.css
+Content Type: text/css
+
+Uri: https://emilyliu.co/isotope.js
+File Name: C:\Users\micha\Desktop\Portfolio - Website\emilyliu.co\isotope.js
+Content Type: application/javascript
+
+Uri: https://emilyliu.co/pages/UWMCC/UWMCC-color.png
+File Name: C:\Users\micha\Desktop\Portfolio - Website\emilyliu.co\pages\UWMCC\UWMCC-color.png
+Content Type: image/png
+
+Uri: https://emilyliu.co/pages/UWMCC/Case workshop pt2-3.png
+File Name: C:\Users\micha\Desktop\Portfolio - Website\emilyliu.co\pages\UWMCC\Case workshop pt2-3.png
+Content Type: image/png
+
+Uri: https://emilyliu.co/pages/UWMCC/Case workshop-3.png
+File Name: C:\Users\micha\Desktop\Portfolio - Website\emilyliu.co\pages\UWMCC\Case workshop-3.png
+Content Type: image/png
+
+Uri: https://emilyliu.co/pages/UWMCC/UWMCC - 3.png
+File Name: C:\Users\micha\Desktop\Portfolio - Website\emilyliu.co\pages\UWMCC\UWMCC - 3.png
+Content Type: image/png
+
+Uri: https://emilyliu.co/pages/UWMCC/Intro-3.png
+File Name: C:\Users\micha\Desktop\Portfolio - Website\emilyliu.co\pages\UWMCC\Intro-3.png
+Content Type: image/png
+
+Uri: https://emilyliu.co/pages/UWMCC/Office Tour-3.png
+File Name: C:\Users\micha\Desktop\Portfolio - Website\emilyliu.co\pages\UWMCC\Office Tour-3.png
+Content Type: image/png
+
+Uri: https://emilyliu.co/pages/UWMCC/Tech day-3.png
+File Name: C:\Users\micha\Desktop\Portfolio - Website\emilyliu.co\pages\UWMCC\Tech day-3.png
+Content Type: image/png
+
+Uri: https://emilyliu.co/pages/UWMCC/Case comp-2.png
+File Name: C:\Users\micha\Desktop\Portfolio - Website\emilyliu.co\pages\UWMCC\Case comp-2.png
+Content Type: image/png
+
+Uri: https://emilyliu.co/pages/UWMCC/Intro-2.png
+File Name: C:\Users\micha\Desktop\Portfolio - Website\emilyliu.co\pages\UWMCC\Intro-2.png
+Content Type: image/png
+
+Uri: https://emilyliu.co/pages/UWMCC/STEM-2.png
+File Name: C:\Users\micha\Desktop\Portfolio - Website\emilyliu.co\pages\UWMCC\STEM-2.png
+Content Type: image/png
+
+Uri: https://emilyliu.co/pages/UWMCC/Mentorship-2.png
+File Name: C:\Users\micha\Desktop\Portfolio - Website\emilyliu.co\pages\UWMCC\Mentorship-2.png
+Content Type: image/png
+
+Uri: https://emilyliu.co/pages/UWMCC/Case workshop-2.png
+File Name: C:\Users\micha\Desktop\Portfolio - Website\emilyliu.co\pages\UWMCC\Case workshop-2.png
+Content Type: image/png
+
+Uri: https://emilyliu.co/pages/UWMCC/Case comp-1.png
+File Name: C:\Users\micha\Desktop\Portfolio - Website\emilyliu.co\pages\UWMCC\Case comp-1.png
+Content Type: image/png
+
+Uri: https://emilyliu.co/pages/UWMCC/Case workshop-1.png
+File Name: C:\Users\micha\Desktop\Portfolio - Website\emilyliu.co\pages\UWMCC\Case workshop-1.png
+Content Type: image/png
+
+Uri: https://emilyliu.co/pages/UWMCC/Intro-1.png
+File Name: C:\Users\micha\Desktop\Portfolio - Website\emilyliu.co\pages\UWMCC\Intro-1.png
+Content Type: image/png
+
+Uri: https://emilyliu.co/pages/UWMCC/Tech day-1.png
+File Name: C:\Users\micha\Desktop\Portfolio - Website\emilyliu.co\pages\UWMCC\Tech day-1.png
+Content Type: image/png
+
+Uri: http://emilyliu.co/gbda228.github.io/home.css
+File Name: C:\Users\micha\Desktop\Portfolio - Website\emilyliu.co\gbda228.github.io\home.css
+Content Type: text/css
+
+Uri: http://emilyliu.co/gbda228.github.io/nav.css
+File Name: C:\Users\micha\Desktop\Portfolio - Website\emilyliu.co\gbda228.github.io\nav.css
+Content Type: text/css
+
+Uri: http://emilyliu.co/gbda228.github.io/index.html
+File Name: C:\Users\micha\Desktop\Portfolio - Website\emilyliu.co\gbda228.github.io\index.html
+Content Type: text/html
+
+Uri: http://emilyliu.co/gbda228.github.io/about.html
+File Name: C:\Users\micha\Desktop\Portfolio - Website\emilyliu.co\gbda228.github.io\about.html
+Content Type: text/html
+
+Uri: http://emilyliu.co/gbda228.github.io/learn.html
+File Name: C:\Users\micha\Desktop\Portfolio - Website\emilyliu.co\gbda228.github.io\learn.html
+Content Type: text/html
+
+Uri: http://emilyliu.co/gbda228.github.io/yfp-events.html
+File Name: C:\Users\micha\Desktop\Portfolio - Website\emilyliu.co\gbda228.github.io\yfp-events.html
+Content Type: text/html
+
+Uri: http://emilyliu.co/gbda228.github.io/yfp-contacts.html
+File Name: C:\Users\micha\Desktop\Portfolio - Website\emilyliu.co\gbda228.github.io\yfp-contacts.html
+Content Type: text/html
+
+Uri: http://emilyliu.co/gbda228.github.io/chapter0.html
+File Name: C:\Users\micha\Desktop\Portfolio - Website\emilyliu.co\gbda228.github.io\chapter0.html
+Content Type: text/html
+
+Uri: http://emilyliu.co/gbda228.github.io/assets/logo.png
+File Name: C:\Users\micha\Desktop\Portfolio - Website\emilyliu.co\gbda228.github.io\assets\logo.png
+Content Type: image/png
+
+Uri: http://emilyliu.co/gbda228.github.io/assets/home1.png
+File Name: C:\Users\micha\Desktop\Portfolio - Website\emilyliu.co\gbda228.github.io\assets\home1.png
+Content Type: image/png
+
+Uri: http://emilyliu.co/gbda228.github.io/assets/home2.png
+File Name: C:\Users\micha\Desktop\Portfolio - Website\emilyliu.co\gbda228.github.io\assets\home2.png
+Content Type: image/png
+
+Uri: http://emilyliu.co/gbda228.github.io/assets/home3.png
+File Name: C:\Users\micha\Desktop\Portfolio - Website\emilyliu.co\gbda228.github.io\assets\home3.png
+Content Type: image/png
+
+Uri: http://emilyliu.co/gbda228.github.io/assets/home4.png
+File Name: C:\Users\micha\Desktop\Portfolio - Website\emilyliu.co\gbda228.github.io\assets\home4.png
+Content Type: image/png
+
+Uri: http://emilyliu.co/gbda228.github.io/assets/home5.png
+File Name: C:\Users\micha\Desktop\Portfolio - Website\emilyliu.co\gbda228.github.io\assets\home5.png
+Content Type: image/png
+
+Uri: http://emilyliu.co/gbda228.github.io/assets/home6.png
+File Name: C:\Users\micha\Desktop\Portfolio - Website\emilyliu.co\gbda228.github.io\assets\home6.png
+Content Type: image/png
+
+Uri: http://emilyliu.co/gbda228.github.io/assets/home7.png
+File Name: C:\Users\micha\Desktop\Portfolio - Website\emilyliu.co\gbda228.github.io\assets\home7.png
+Content Type: image/png
+
+Uri: http://emilyliu.co/gbda228.github.io/about.css
+File Name: C:\Users\micha\Desktop\Portfolio - Website\emilyliu.co\gbda228.github.io\about.css
+Content Type: text/css
+
+Uri: http://emilyliu.co/gbda228.github.io/assets/about2.png
+File Name: C:\Users\micha\Desktop\Portfolio - Website\emilyliu.co\gbda228.github.io\assets\about2.png
+Content Type: image/png
+
+Uri: http://emilyliu.co/gbda228.github.io/assets/about3.png
+File Name: C:\Users\micha\Desktop\Portfolio - Website\emilyliu.co\gbda228.github.io\assets\about3.png
+Content Type: image/png
+
+Uri: http://emilyliu.co/gbda228.github.io/assets/about4.png
+File Name: C:\Users\micha\Desktop\Portfolio - Website\emilyliu.co\gbda228.github.io\assets\about4.png
+Content Type: image/png
+
+Uri: http://emilyliu.co/gbda228.github.io/assets/about5.png
+File Name: C:\Users\micha\Desktop\Portfolio - Website\emilyliu.co\gbda228.github.io\assets\about5.png
+Content Type: image/png
+
+Uri: http://emilyliu.co/gbda228.github.io/learn.css
+File Name: C:\Users\micha\Desktop\Portfolio - Website\emilyliu.co\gbda228.github.io\learn.css
+Content Type: text/css
+
+Uri: http://emilyliu.co/gbda228.github.io/chapter1.html
+File Name: C:\Users\micha\Desktop\Portfolio - Website\emilyliu.co\gbda228.github.io\chapter1.html
+Content Type: text/html
+
+Uri: http://emilyliu.co/gbda228.github.io/chapter2.html
+File Name: C:\Users\micha\Desktop\Portfolio - Website\emilyliu.co\gbda228.github.io\chapter2.html
+Content Type: text/html
+
+Uri: http://emilyliu.co/gbda228.github.io/chapter3.html
+File Name: C:\Users\micha\Desktop\Portfolio - Website\emilyliu.co\gbda228.github.io\chapter3.html
+Content Type: text/html
+
+Uri: http://emilyliu.co/gbda228.github.io/chapter4.html
+File Name: C:\Users\micha\Desktop\Portfolio - Website\emilyliu.co\gbda228.github.io\chapter4.html
+Content Type: text/html
+
+Uri: http://emilyliu.co/gbda228.github.io/assets/learn1.png
+File Name: C:\Users\micha\Desktop\Portfolio - Website\emilyliu.co\gbda228.github.io\assets\learn1.png
+Content Type: image/png
+
+Uri: http://emilyliu.co/gbda228.github.io/assets/learn2.png
+File Name: C:\Users\micha\Desktop\Portfolio - Website\emilyliu.co\gbda228.github.io\assets\learn2.png
+Content Type: image/png
+
+Uri: http://emilyliu.co/gbda228.github.io/assets/learn3.png
+File Name: C:\Users\micha\Desktop\Portfolio - Website\emilyliu.co\gbda228.github.io\assets\learn3.png
+Content Type: image/png
+
+Uri: http://emilyliu.co/gbda228.github.io/assets/learn4.png
+File Name: C:\Users\micha\Desktop\Portfolio - Website\emilyliu.co\gbda228.github.io\assets\learn4.png
+Content Type: image/png
+
+Uri: http://emilyliu.co/gbda228.github.io/assets/learn5.png
+File Name: C:\Users\micha\Desktop\Portfolio - Website\emilyliu.co\gbda228.github.io\assets\learn5.png
+Content Type: image/png
+
+Uri: http://emilyliu.co/gbda228.github.io/yfp-events.css
+File Name: C:\Users\micha\Desktop\Portfolio - Website\emilyliu.co\gbda228.github.io\yfp-events.css
+Content Type: text/css
+
+Uri: http://emilyliu.co/gbda228.github.io/yfp-contact.css
+File Name: C:\Users\micha\Desktop\Portfolio - Website\emilyliu.co\gbda228.github.io\yfp-contact.css
+Content Type: text/css
+
+Uri: http://emilyliu.co/gbda228.github.io/assets/contact.png
+File Name: C:\Users\micha\Desktop\Portfolio - Website\emilyliu.co\gbda228.github.io\assets\contact.png
+Content Type: image/png
+
+Uri: http://emilyliu.co/gbda228.github.io/chapters.css
+File Name: C:\Users\micha\Desktop\Portfolio - Website\emilyliu.co\gbda228.github.io\chapters.css
+Content Type: text/css
+
+Uri: http://emilyliu.co/gbda228.github.io/assets/chapter0.png
+File Name: C:\Users\micha\Desktop\Portfolio - Website\emilyliu.co\gbda228.github.io\assets\chapter0.png
+Content Type: image/png
+
+Uri: http://emilyliu.co/gbda228.github.io/images/about1.png
+File Name: C:\Users\micha\Desktop\Portfolio - Website\emilyliu.co\gbda228.github.io\images\about1.png
+Content Type: image/png
+
+Uri: http://emilyliu.co/gbda228.github.io/assets/chapter1.png
+File Name: C:\Users\micha\Desktop\Portfolio - Website\emilyliu.co\gbda228.github.io\assets\chapter1.png
+Content Type: image/png
+

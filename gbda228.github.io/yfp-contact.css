@@ -1,0 +1,78 @@
+/* Contact us section */
+#contact {
+  background-color: #f3f3f3;
+  padding: 0;
+}
+
+#contact-img {
+  opacity: 0.7;
+  float: right;
+  padding-top: 60px;
+  padding-left: 20px;
+}
+
+/* Contact form */
+#contact-form {
+  padding: 100px 20px 10px 100px;
+  color: #494949;
+}
+
+/* Contact input box */
+input[type=text], select, textarea {
+    width: 100%;
+    padding: 12px;
+    border: none;
+    margin-top: 6px;
+    margin-bottom: 16px;
+}
+
+/* Submit button */
+input[type=submit] {
+    background-color: #02A841;
+    color: white;
+    padding: 10px 20px;
+    margin-top: 20px;
+    border: none;
+}
+
+input[type=submit]:hover {
+    background-color: rgb(2, 126, 49);
+}
+
+/* What we offer section */
+#offerings {
+  margin-top: 80px;
+  margin-bottom: 100px;
+  padding: 0px;
+}
+
+#offerings h2 {
+  padding-left: 40px;
+  margin-bottom: 20px;
+  color: #494949;
+  font-size: 40px;
+}
+
+.offers {
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
+/* columns in 'What we offer' section */
+#offering-1 {
+  background-color: #494949;
+  color: #FFF;
+  padding: 20px 90px 20px 50px;
+}
+
+#offering-2 {
+  background-color: #02A841;
+  color: #FFF;
+  padding: 20px 90px 20px 50px;
+}
+
+#offering-3 {
+  color: #494949;
+  border: 1px solid gray;
+  padding: 20px 90px 20px 50px;
+}

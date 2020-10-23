@@ -1,0 +1,85 @@
+/*learn*/
+h1 {
+  font-size: 60px;
+  margin-top: 1.5em;
+  margin-left: 2.7em;
+  margin-bottom: .5em;
+  color: #027a2f;
+}
+
+.learn {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  margin-bottom: 6em;
+}
+
+.learn figcaption{
+  margin-left: .8em;
+}
+
+.learn h3 {
+  padding-top: .3em;
+  font-size: 35px;
+}
+
+.learn h4 {
+  font-size: 20px;
+}
+
+.learn p {
+    padding-top: 1em;
+    font-size: 13px;
+    font-weight: 200;
+}
+
+.learn a {
+  color: #494949;
+}
+
+.chapters {
+  box-shadow: 0px 1px 5px #494949;
+  height:25em;
+}
+
+#chapter0 {
+  margin-left: 7em;
+]}
+
+#chapter2 {
+  margin-right: 7em;
+}
+
+#chapter3 {
+  margin-left: 6.7em;
+}
+
+#chapter4 {
+  margin-right: .6em;
+}
+
+.sign {
+  margin-top: 1em;
+  margin-right: 7em;
+}
+
+.sign h2 {
+font-size: 40px;
+font-weight: 600;
+}
+
+.sign input[type=text] {
+  border-radius: 20px;
+}
+
+.sign input[placeholder=E-mail] {
+  padding-left: 1em;
+}
+
+.sign button {
+  border-radius: 20px;
+  width: 4.3em;
+  color: #ffffff;
+  font-weight: 100;
+  background-color: #494949;
+}
