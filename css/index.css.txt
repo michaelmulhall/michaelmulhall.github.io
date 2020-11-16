@@ -1,0 +1,48 @@
+/* BACKGROUNDS */
+/* #proj {
+    background: linear-gradient(0deg, rgba(245, 247, 255, 0) 0%, rgb(245, 247, 255) 10%, rgb(245, 247, 255) 90%, rgba(245, 247, 255, 0) 100%);
+} */
+
+/* CARDS */
+
+.card-horizontal {
+    display: flex;
+    flex: 1 1 auto;
+}
+
+.card {
+    margin: 48px;
+    border: none;
+    border-radius: 14px;
+}
+
+.card-horizontal img {
+    padding: 10px 50px;
+}
+
+.card-body {
+    padding: 64px;
+}
+
+.card-btn {
+    background-color: #A7AEE5;
+    padding: 8px;
+    width: 50%;
+    border-radius: 4px;
+    text-align: center;
+    text-transform: uppercase;
+    opacity: .6;
+}
+
+
+.card:hover .card-btn {
+    background-image: linear-gradient(to right, #4E57F5 0%, #A7AEE5 100%);
+    background-position: right center;  
+    opacity: 1;
+    transition: 500ms ease-in-out;
+}
+
+.card:hover a {
+    color: #fff;
+    transition: 500ms;
+}
