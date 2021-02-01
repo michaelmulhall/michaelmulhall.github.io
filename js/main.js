@@ -69,7 +69,7 @@ jQuery(function($) {
 					pauseSpeed: 5000,
 					child:null
 				};
-	
+				
 				var options = $.extend(defaults, options);
 	
 				return this.each(function() {
