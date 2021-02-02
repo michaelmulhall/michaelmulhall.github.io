@@ -2,6 +2,7 @@ html {
     scroll-behavior: smooth;
 }
 
+
 /*  NAV  */
 #mainNavbar {
     padding: 20px 50px;
@@ -22,6 +23,8 @@ html {
 #mainNavbar a:hover {
     color: #545bf6;
 }
+
+
 
 
 /* TEXT */
