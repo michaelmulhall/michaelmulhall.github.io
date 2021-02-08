@@ -97,5 +97,9 @@ jQuery(function($) {
 	 $(document).ready(function() {
 			$('#rotate').rotaterator({fadeSpeed:500, pauseSpeed:5000});
 	 });
-	
 
+
+
+
+
+	 
